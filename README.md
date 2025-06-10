@@ -3,7 +3,7 @@
 🎓 Master's student in Cybersecurity at [ISEP](https://www.isep.ipp.pt/)<br/>
 🔒 Passionate about **Penetration Testing** & Cyber Defense<br/>
 🧠 Currently completing the **Hack The Box - Certified Defensive Security Analyst (CDSA)** certification<br/>
-📜 Holder of the **Google Cybersecurity Certificate** – [View Certificate](./certificates/google-cybersecurity.pdf)<br/>
+📜 Holder of the **Google Cybersecurity Certificate** – [View Certificate](./google-cybersecurity.pdf)<br/>
 
 ---
 
